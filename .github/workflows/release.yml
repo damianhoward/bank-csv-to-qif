@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   release:
-    uses: damian1000/.github/.github/workflows/release.yml@main
+    uses: damianhoward/.github/.github/workflows/release.yml@main
     with:
       # `build` covers the distribution: the application plugin wires distTar and distZip into
       # assemble, so the archives staged below are the ones the verified build produced.
