@@ -1,6 +1,6 @@
-package io.github.damian1000.csv2qif
+package com.damianhoward.csv2qif
 
-import io.github.damian1000.csv2qif.readers.CryptoDotComReader
+import com.damianhoward.csv2qif.readers.CryptoDotComReader
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Assertions.assertThrows
 import org.junit.jupiter.api.Assertions.assertTrue

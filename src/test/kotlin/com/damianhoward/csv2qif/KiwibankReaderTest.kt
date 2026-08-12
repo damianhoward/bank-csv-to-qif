@@ -1,6 +1,6 @@
-package io.github.damian1000.csv2qif
+package com.damianhoward.csv2qif
 
-import io.github.damian1000.csv2qif.readers.KiwibankReader
+import com.damianhoward.csv2qif.readers.KiwibankReader
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 import java.io.InputStreamReader

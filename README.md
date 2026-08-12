@@ -1,9 +1,9 @@
 # Bank CSV → QIF Converter
 
-[![CI](https://github.com/damian1000/bank-csv-to-qif/actions/workflows/ci.yml/badge.svg)](https://github.com/damian1000/bank-csv-to-qif/actions/workflows/ci.yml)
-[![CodeQL](https://github.com/damian1000/bank-csv-to-qif/actions/workflows/codeql.yml/badge.svg)](https://github.com/damian1000/bank-csv-to-qif/actions/workflows/codeql.yml)
-[![codecov](https://codecov.io/gh/damian1000/bank-csv-to-qif/graph/badge.svg)](https://codecov.io/gh/damian1000/bank-csv-to-qif)
-[![Release](https://img.shields.io/github/v/release/damian1000/bank-csv-to-qif)](https://github.com/damian1000/bank-csv-to-qif/releases)
+[![CI](https://github.com/damianhoward/bank-csv-to-qif/actions/workflows/ci.yml/badge.svg)](https://github.com/damianhoward/bank-csv-to-qif/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/damianhoward/bank-csv-to-qif/actions/workflows/codeql.yml/badge.svg)](https://github.com/damianhoward/bank-csv-to-qif/actions/workflows/codeql.yml)
+[![codecov](https://codecov.io/gh/damianhoward/bank-csv-to-qif/graph/badge.svg)](https://codecov.io/gh/damianhoward/bank-csv-to-qif)
+[![Release](https://img.shields.io/github/v/release/damianhoward/bank-csv-to-qif)](https://github.com/damianhoward/bank-csv-to-qif/releases)
 
 Converts bank CSV statement exports into [QIF (Quicken Interchange Format)](https://en.wikipedia.org/wiki/Quicken_Interchange_Format), the format used by Quicken, MoneyDance, GnuCash, KMyMoney, Microsoft Money, and a long tail of legacy personal-finance tools that long predate Open Banking.
 
@@ -21,7 +21,7 @@ Built because every bank exports a _slightly_ different CSV layout — different
 
 ### Download a release (no build required)
 
-Grab the latest tarball or zip from [GitHub Releases](https://github.com/damian1000/bank-csv-to-qif/releases), extract it, and run:
+Grab the latest tarball or zip from [GitHub Releases](https://github.com/damianhoward/bank-csv-to-qif/releases), extract it, and run:
 
 ```bash
 tar -xf bank-csv-to-qif-1.0.0.tar

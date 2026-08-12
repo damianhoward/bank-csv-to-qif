@@ -1,8 +1,8 @@
-package io.github.damian1000.csv2qif
+package com.damianhoward.csv2qif
 
-import io.github.damian1000.csv2qif.readers.CryptoDotComReader
-import io.github.damian1000.csv2qif.readers.KiwibankReader
-import io.github.damian1000.csv2qif.readers.SantanderReader
+import com.damianhoward.csv2qif.readers.CryptoDotComReader
+import com.damianhoward.csv2qif.readers.KiwibankReader
+import com.damianhoward.csv2qif.readers.SantanderReader
 
 internal enum class Bank(
     val cliName: String,
