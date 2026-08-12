@@ -1,10 +1,10 @@
-package io.github.damian1000.csv2qif.readers
+package com.damianhoward.csv2qif.readers
 
-import io.github.damian1000.csv2qif.BankCsvReader
-import io.github.damian1000.csv2qif.ParseResult
-import io.github.damian1000.csv2qif.RowOutcome
-import io.github.damian1000.csv2qif.Transaction
-import io.github.damian1000.csv2qif.toParseResult
+import com.damianhoward.csv2qif.BankCsvReader
+import com.damianhoward.csv2qif.ParseResult
+import com.damianhoward.csv2qif.RowOutcome
+import com.damianhoward.csv2qif.Transaction
+import com.damianhoward.csv2qif.toParseResult
 import org.apache.commons.csv.CSVFormat
 import org.apache.commons.csv.CSVRecord
 import java.io.Reader

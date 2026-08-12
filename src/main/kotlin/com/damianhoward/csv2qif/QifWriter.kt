@@ -1,4 +1,4 @@
-package io.github.damian1000.csv2qif
+package com.damianhoward.csv2qif
 
 import java.io.Writer
 import java.time.format.DateTimeFormatter

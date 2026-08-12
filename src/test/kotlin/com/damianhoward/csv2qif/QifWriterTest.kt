@@ -1,4 +1,4 @@
-package io.github.damian1000.csv2qif
+package com.damianhoward.csv2qif
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test

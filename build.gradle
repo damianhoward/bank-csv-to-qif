@@ -10,5 +10,5 @@ dependencies {
 }
 
 application {
-    mainClass = 'io.github.damian1000.csv2qif.MainKt'
+    mainClass = 'com.damianhoward.csv2qif.MainKt'
 }
