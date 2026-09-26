@@ -101,7 +101,7 @@ The pattern in the existing readers:
 
 ## Stack
 
-- Kotlin 2.3.21 (JVM target 25)
+- Kotlin 2.4.20 (JVM target 25)
 - Java 25 toolchain
 - Apache Commons CSV 1.14.1 (the one runtime dependency)
 - JUnit Jupiter 6.1
